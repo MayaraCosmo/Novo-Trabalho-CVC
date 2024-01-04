@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(202, 220, 190, 0.936);
+}
+
+#formacao {
+
+}
+
+h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+
+p  {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+#cabecalho {
+    color: blueviolet;
+}
