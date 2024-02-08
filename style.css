@@ -1,24 +1,37 @@
-body {
-    background-color: rgba(202, 220, 190, 0.936);
+#logo {
+    height: 11vh;
+    width: 10vw;
+    gap: 50px;
 }
 
-#formacao {
+.carousel-item {
+    height: 500px;
+}
+  
+
+.cards {
+    margin-top: 80px;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 
 }
 
-h1 {
-
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 30px;
+.card-img-top1 {
+    border-radius: 50%;
     
+
+
 }
 
-p  {
-    font-size: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
-}
+.avaliacoes {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    top: 100px;
+    gap: 50px;
+    
 
-#cabecalho {
-    color: blueviolet;
 }
